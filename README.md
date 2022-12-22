@@ -2,10 +2,10 @@
 
 - 🔭 Atualmente, trabalho com Direito, sendo Advogada.
 - 🌱 Atualmente, estou aprendendo linguagens de programação. Programação em si.
-- 🤔 Procuro ajuda para iniciar nesta seara do conhecimento de TI
+- 🤔 Procuro ajuda para iniciar nesta seara do conhecimento de TI.
 - 💬 Pergunte-me sobre muita coisa, pois sou curiosa e tenho conhecimento vasto.
-- 📫 Como chegar até mim: pelo meu e-mail ingrid.pontesc@gmail.com
-- 😄 Pronomes: Ela/Dela
+- 📫 Como chegar até mim: pelo meu e-mail ingrid.pontesc@gmail.com .
+- 😄 Pronomes: Ela/Dela.
 - ⚡ Fato interessante: sou apaixonada pelo meu marido e meus gatos!
 -->
 <div align="center">

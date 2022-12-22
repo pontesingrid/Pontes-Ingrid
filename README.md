@@ -1,4 +1,4 @@
-### Olá! Eu sou a Ingrid. 👋
+### Olá! Eu sou a Ingrid 👋
 
 - 🔭 Atualmente, trabalho com Direito, sendo Advogada.
 - 🌱 Atualmente, estou aprendendo linguagens de programação. Programação em si.

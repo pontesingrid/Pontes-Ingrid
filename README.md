@@ -7,7 +7,7 @@
 - 📫 Como chegar até mim: pelo meu e-mail ingrid.pontesc@gmail.com .
 - 😄 Pronomes: Ela/Dela.
 - ⚡ Fato interessante: sou apaixonada pelo meu marido e meus gatos!
--->
+
 <div align="center">
   <a href="https://github.com/Pontes-Ingrid">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pontes-Ingrid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>

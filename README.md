@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Ingrid 👋
 
-- 🔭 Atualmente, trabalho com Direito, sendo Advogada.
+- 🔭 Sou Analista de Dados, tendo como segunda profissão a Advocacia. Realizei transição de carreira para a TI.
 - 🌱 No momento, estou aprendendo linguagens de programação. Programação em si.
 - 🤔 Procuro ajuda para iniciar nesta seara do conhecimento de TI.
 - 💬 Pergunte-me sobre algo, pois sou curiosa e conheço um pouco de várias coisas.

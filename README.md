@@ -1,9 +1,9 @@
 ### Olá! Eu sou a Ingrid 👋
 
-- 🔭 Sou Analista de Dados, tendo como segunda profissão a Advocacia. Realizei transição de carreira para a TI.
-- 🌱 No momento, estou aprendendo linguagens de programação. Programação em si.
+- 🔭 Sou Analista de Dados, tendo como segunda profissão a Advocacia. Realizei transição de carreira para a TI, especificamente para Análise de Dados.
+- 🌱 No momento, estou aprendendo ferramentas que me auxiliem na Análise de Dados, como Power BI.
 - 🤔 Procuro ajuda para iniciar nesta seara do conhecimento de TI.
-- 💬 Pergunte-me sobre algo, pois sou curiosa e conheço um pouco de várias coisas.
+- 💬 Pergunte-me sobre algo, pois sou curiosa e conheço um pouco de algumas coisas.
 - 📫 Como chegar até mim: pelo meu e-mail ingrid.pontesc@gmail.com.
 - 😄 Pronomes: Ela/Dela.
 - ⚡ Fato interessante: sou apaixonada pelo meu marido e meus gatos!
